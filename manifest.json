@@ -1,0 +1,11 @@
+{
+  "id": "reference-previews",
+  "name": "Reference Previews",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.7",
+  "description": "Preview links listed in a frontmatter field (in order) in a separate pane.",
+  "author": "you",
+  "authorUrl": "",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
